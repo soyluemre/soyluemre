@@ -12,13 +12,13 @@
      <br>
      <p align="center">
          Hi,I'm Emre Soylu,Fullstack Developer from Turkiye
-         <br>
+         <br><br>
          🔬 I am currently training for Fullstack Developer at Clarusway
-         <br>
+         <br><br>
          💻 I love writing code and learn anythings about it
-         <br>
+         <br><br>
          📚 I'm currently learning HTML,CSS,JAVASCRİPT.
-         <br>
+         <br><br>
          📫 How to reach me: <a href="emresoyludev@gmail.com">emresoyludev@gmail.com</a>
      </p>
      <hr>
