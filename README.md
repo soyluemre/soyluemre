@@ -3,7 +3,7 @@
           <img src="/img/result.gif">
         </a>
       </h1>
-      <h5 aling="center">
+      <h5 align="center">
               <code>
                   <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="22" src="/img/linkedin.svg"> LinkedIn</a>
               </code>
