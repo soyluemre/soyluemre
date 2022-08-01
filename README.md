@@ -3,15 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Emre+Soylu....;Welcome+to+my+profile!&center=true&size=30">
   </a>
       </h1>
-      <hr>
       <br><br>
-      <h5 align="center">
-              <code>
-                  <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="35" src="/img/linkedin.svg"></a>
-              </code>
-            <code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="35" src="/img/Twitter-logo.svg.png"></a></code>
-        <code><a href="https://instagram.com/mrsoyluu" title="Instagram Profile"><img width="35" src="/img/icons8-instagram.png"></a></code>
-     </h5>
+             [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emresoyludev@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-soylu/)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsoyluu/)
      <br><br><br>
      <p align="center">
          Hi, I'm Emre Soylu, Fullstack Developer from Turkiye
