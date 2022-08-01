@@ -9,9 +9,9 @@
               </code>
             <code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="22" src="/img/Twitter-logo.svg.png"> Twitter</a></code>
      </h5>
-     <br>
+     <br><br><br>
      <p align="center">
-         Hi,I'm Emre Soylu,Fullstack Developer from Turkiye
+         Hi, I'm Emre Soylu, Fullstack Developer from Turkiye
          <br><br>
          🔬 I am currently training for Fullstack Developer at Clarusway
          <br><br>
