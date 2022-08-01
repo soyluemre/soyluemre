@@ -1,25 +1,24 @@
 <h1 align="center">
-        <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Emre+Soylu....;Welcome+to+my+profile!&center=true&size=30">
-  </a>
+        <a href="#">
+          <img src="/img/result.gif">
+        </a>
       </h1>
-      <br><br>
-      
-      ## Contact me  
-      
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the- badge&logo=gmail&logoColor=white)] (mailto:emresoyludev@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/emre-soylu/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/mrsoyluu/)
-     <br><br><br>
+      <h5 align="center">
+              <code>
+                  <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="35" src="/img/linkedin.svg"> LinkedIn</a>
+              </code>
+            <code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="35" src="/img/Twitter-logo.svg.png"> Twitter</a></code>
+     </h5>
+     <br>
      <p align="center">
-         Hi, I'm Emre Soylu, Fullstack Developer from Turkiye
-         <br><br>
+         Hi,I'm Emre Soylu,Fullstack Developer from Turkiye
+         <br>
          🔬 I am currently training for Fullstack Developer at Clarusway
-         <br><br>
+         <br>
          💻 I love writing code and learn anythings about it
-         <br><br>
+         <br>
          📚 I'm currently learning HTML,CSS,JAVASCRİPT.
-         <br><br>
+         <br>
          📫 How to reach me: <a href="emresoyludev@gmail.com">emresoyludev@gmail.com</a>
      </p>
      <hr>
