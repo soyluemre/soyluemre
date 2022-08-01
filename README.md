@@ -10,6 +10,7 @@
                   <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="35" src="/img/linkedin.svg"></a>
               </code>
             <code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="35" src="/img/Twitter-logo.svg.png"></a></code>
+        <code><a href="https://instagram.com/mrsoyluu" title="Instagram Profile"><img width="35" src="/img/icons8-instagram.png"></a></code>
      </h5>
      <br><br><br>
      <p align="center">
