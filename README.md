@@ -13,8 +13,6 @@
      <p align="center">
          Hi,I'm Emre Soylu,Fullstack Developer from Turkiye
          <br>
-         🔬 I am currently training for Fullstack Developer at Clarusway
-         <br>
          💻 I love writing code and learn anythings about it
          <br>
          📚 I'm currently learning HTML,CSS,JAVASCRİPT.
