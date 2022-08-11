@@ -11,7 +11,7 @@
      </h5>
      <br>
      <p align="center">
-         Hi,I'm Emre Soylu,Fullstack Developer from Turkiye
+         Hi, I'm Emre Soylu, Fullstack Developer from Turkiye
          <br>
           🔬 I am currently training for Fullstack Developer at Clarusway
          <br>
