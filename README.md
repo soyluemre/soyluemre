@@ -49,8 +49,13 @@
 <div width="100%" align="center">
     <a align="left"  href="https://github.com/soyluemre/my-third-bootstrap-page" title="my-third-bootstrap-page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=my-third-bootstrap-page&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="right" href="https://github.com/soyluemre/calculator-2" title="Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=calculator-2&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/soyluemre/sass-pages/tree/main" title="Sass-Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=sass-pages&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+
+<div>
+  <a align="right" href="https://github.com/soyluemre/sass-pages/tree/main" title="Sass-Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=sass-pages&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/soyluemre/kredi-hesaplama" title="Sass-Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=kredi-hesaplama&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <br><br><br><br><br><br>
 <h4 align="center">
     <a href="https://github.com/soyluemre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
