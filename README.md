@@ -5,19 +5,24 @@
       </h1>
       <h5 align="center">
               <code>
-                  <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="35" src="/img/linkedin.svg"> LinkedIn</a>
+                  <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile">
+                    <img width="35" src="/img/linkedin.svg">LinkedIn
+                  </a>
               </code>
-            <code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="35" src="/img/Twitter-logo.svg.png"> Twitter</a></code>
+            <code>
+              <a href="https://twitter.com/emresoyludev" title="Twitter Profile">
+                <img width="35" src="/img/Twitter-logo.svg.png">Twitter
+               </a>
+            </code>
      </h5>
      <br>
      <p align="center">
-         Hi, I'm Emre Soylu, Fullstack Developer from Turkiye
+         Hi, I'm Emre Soylu, Frontend Developer from Türkiye
          <br>
-          🔬 I am currently training for Fullstack Developer at Clarusway
          <br>
          💻 I love writing code and learn anythings about it
          <br>
-         📚 I'm currently learning HTML,CSS,JAVASCRİPT.
+         📚 I'm currently learning Javascript, Typescript, Reactjs, React Native.
          <br>
          📫 How to reach me: <a href="emresoyludev@gmail.com">emresoyludev@gmail.com</a>
      </p>
