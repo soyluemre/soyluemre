@@ -3,18 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Emre+Soylu....;Welcome+to+my+page!&center=true&size=30">
   </a>
       </h1>
-      <h5 align="center">
-              <code>
-                  <a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile">
-                    <img width="35" src="/img/linkedin.svg">LinkedIn
-                  </a>
-              </code>
-            <code>
-              <a href="https://twitter.com/emresoyludev" title="Twitter Profile">
-                <img width="35" src="/img/Twitter-logo.svg.png">Twitter
-               </a>
-            </code>
-     </h5>
+      <h5 align="center"><code><a href="https://www.linkedin.com/in/emre-soylu/" title="LinkedIn Profile"><img width="35" src="/img/linkedin.svg">LinkedIn</a></code><code><a href="https://twitter.com/emresoyludev" title="Twitter Profile"><img width="35" src="/img/Twitter-logo.svg.png">Twitter</a></code></h5>
      <br>
      <p align="center">
          Hi, I'm Emre Soylu, Frontend Developer from Türkiye
