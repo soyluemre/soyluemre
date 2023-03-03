@@ -9,14 +9,14 @@
          Hi, I'm Emre Soylu, Frontend Developer from Türkiye
          <br>
          <br>
-         💻 I love writing code and learn anythings about it
+         💻 I love coding and I work every day to improve myself.
          <br>
-         📚 I'm currently learning Javascript, Typescript, Reactjs, React Native.
+         📚 I'm learning Javascript, TypeScript, Reactjs, React Native.
          <br>
          📫 How to reach me: <a href="emresoyludev@gmail.com">emresoyludev@gmail.com</a>
      </p>
      <hr>
-     <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+     <h2 align="center"> 🔥 Languages & Frameworks & Tools & Abilities 🔥 </h2>
 <br>
 <p align="center">
     <code><img title="Python" height="25" src="/img/python-original.svg" alt=""></code>
@@ -33,7 +33,7 @@
 <br>
 <hr>
 
-<h2 align="center"> 📚 Repositories📚</h2>
+<h2 align="center"> 📚 Repositories 📚 </h2>
 <br>
 <div width="100%" align="center">
     <a align="left" href="https://github.com/soyluemre/Bootstrap-Example" title="Bootstrap-Example"> <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=Bootstrap-Example&theme=react&border_color=61dafb&border_radius=10"></a>
