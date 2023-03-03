@@ -39,22 +39,22 @@
    <a align="left"  href="https://github.com/soyluemre/Bootstrap-Example" title="Bootstrap - Restaurant Page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=Bootstrap-Example&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/soyluemre/sass-pages/tree/main" title="Sass-Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=sass-pages&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <div width="100%" align="center">
    <a align="left" href="https://soyluemre.github.io/guess-number/" title="Javascript - Guess Number App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=guess-number&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/soyluemre/calculator-2" title="Javascript - Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=calculator-2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/soyluemre/react-movie-app" title="React - Movie App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=react-movie-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/soyluemre/contextapi-example/" title="React - useContext Hook Example"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=contextapi-example&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <div  width="100%" align="center">
   <a align="right" href="https://github.com/soyluemre/firebase-authentication" title="React - Firebase Authentication"> <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=firebase-authentication&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="right" href="https://github.com/soyluemre/react-news-app" title="React - News App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=soyluemre&repo=react-news-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <h4 align="center">
     <a href="https://github.com/soyluemre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
